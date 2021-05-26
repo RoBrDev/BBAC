@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <settings>
+    <check-intervall>300000</check-intervall>
+    <lastid>0</lastid>
+    <pushnotification>false</pushnotification>
+    <token>
+    </token>
+    <user>
+    </user>
+  </settings>
+  <urls>
+  </urls>
+</root>
